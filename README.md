@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jun113
-- 👀 I’m interested in High Performance Computing
+- 👀 I’m interested in High-Performance Computing
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
